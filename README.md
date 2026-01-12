@@ -46,7 +46,4 @@ This project is ideal for practicing:
 - Java Stream API  
 - Object-Oriented Programming (OOP)
 
----
-
-## 📂 Project Structure
 
